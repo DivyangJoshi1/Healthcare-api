@@ -28,7 +28,7 @@ This project is part of the Backend Intern Assignment, where we implemented user
 - **Postgre SQL**database  
 - **JWT** - Authentication  
 - **Bcrypt** - Password hashing  
-- *Testing* - Postman 
+- **Testing** - Postman 
 
 ## 📌 How to Run  
 1. Clone the repository:  
