@@ -6,7 +6,7 @@ This project is part of the Backend Intern Assignment, where we implemented user
 ## ✅ Features Implemented  
 
 ### **Phase 1: Project Setup & Database Integration**  
-- Initialized a **NestJS** project and configured **Prisma ORM** with **MongoDB**.  
+- Initialized a **NestJS** project and configured **Prisma ORM** with **POSTGRESQL**.  
 - Defined database models for **User**.  
 
 ### **Phase 2: User Authentication (Register & Login)**  
