@@ -25,9 +25,10 @@ This project is part of the Backend Intern Assignment, where we implemented user
 ## 🛠️ **Tech Stack**  
 - **NestJS** - Backend framework  
 - **Prisma ORM** - Database management  
-- **MongoDB** - NoSQL database  
+- **Postgre SQL**database  
 - **JWT** - Authentication  
 - **Bcrypt** - Password hashing  
+- *Testing* - Postman 
 
 ## 📌 How to Run  
 1. Clone the repository:  
