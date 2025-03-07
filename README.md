@@ -1,7 +1,7 @@
 # Backend Intern Assignment  
 
 ## 📖 Overview  
-This project is part of the Backend Intern Assignment, where we implemented user authentication and management functionalities using **NestJS**, **Prisma ORM**, **MongoDB**, and **JWT authentication**.
+This project is part of the Backend Intern Assignment, where we implemented user authentication and management functionalities using **NestJS**, **Prisma ORM**, **Postgre SQL**, and **JWT authentication**.
 
 ## ✅ Features Implemented  
 
